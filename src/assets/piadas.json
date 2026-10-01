@@ -1,0 +1,3005 @@
+{
+  "total": 500,
+  "piadas": [
+    {
+      "id": 1,
+      "categoria": "tecnologia",
+      "setup": "Por que o programador foi ao oftalmologista?",
+      "punchline": "Porque ele não conseguia C#."
+    },
+    {
+      "id": 2,
+      "categoria": "tecnologia",
+      "setup": "Qual é o café preferido do programador?",
+      "punchline": "Java."
+    },
+    {
+      "id": 3,
+      "categoria": "tecnologia",
+      "setup": "Por que o computador foi ao médico?",
+      "punchline": "Porque estava com vírus."
+    },
+    {
+      "id": 4,
+      "categoria": "tecnologia",
+      "setup": "O que o HD disse para o SSD?",
+      "punchline": "Você é rápido, mas eu tenho mais espaço."
+    },
+    {
+      "id": 5,
+      "categoria": "tecnologia",
+      "setup": "Por que o programador largou a namorada?",
+      "punchline": "Ela tinha muitos bugs e nenhuma documentação."
+    },
+    {
+      "id": 6,
+      "categoria": "tecnologia",
+      "setup": "Como o programador resolve problemas?",
+      "punchline": "Reinicia e torce."
+    },
+    {
+      "id": 7,
+      "categoria": "tecnologia",
+      "setup": "Qual a diferença entre o programador e o usuário?",
+      "punchline": "O programador acha que o código funciona; o usuário prova que não."
+    },
+    {
+      "id": 8,
+      "categoria": "tecnologia",
+      "setup": "Por que o Wi-Fi foi ao psicólogo?",
+      "punchline": "Porque vivia perdendo a conexão."
+    },
+    {
+      "id": 9,
+      "categoria": "tecnologia",
+      "setup": "O que o programador pediu no restaurante?",
+      "punchline": "Um array de pizzas, começando do zero."
+    },
+    {
+      "id": 10,
+      "categoria": "tecnologia",
+      "setup": "Por que o desenvolvedor odeia a natureza?",
+      "punchline": "Tem muitos bugs e nenhum debug."
+    },
+    {
+      "id": 11,
+      "categoria": "tecnologia",
+      "setup": "Por que o programador sempre confunde Halloween com Natal?",
+      "punchline": "Porque Oct 31 == Dec 25."
+    },
+    {
+      "id": 12,
+      "categoria": "tecnologia",
+      "setup": "Qual é o animal favorito do programador?",
+      "punchline": "O Python, mas só quando não dá erro de indentação."
+    },
+    {
+      "id": 13,
+      "categoria": "tecnologia",
+      "setup": "O que um programador faz quando está com frio?",
+      "punchline": "Fecha as janelas e abre o Linux."
+    },
+    {
+      "id": 14,
+      "categoria": "tecnologia",
+      "setup": "Por que o servidor caiu?",
+      "punchline": "Porque ninguém avisou que hoje era segunda-feira."
+    },
+    {
+      "id": 15,
+      "categoria": "tecnologia",
+      "setup": "Como se chama um grupo de programadores perdidos?",
+      "punchline": "Um stack overflow."
+    },
+    {
+      "id": 16,
+      "categoria": "tecnologia",
+      "setup": "Por que o front-end foi mal no encontro?",
+      "punchline": "Porque o back-end não respondeu."
+    },
+    {
+      "id": 17,
+      "categoria": "tecnologia",
+      "setup": "O que o backup disse para o arquivo deletado?",
+      "punchline": "Eu sabia que você ia voltar."
+    },
+    {
+      "id": 18,
+      "categoria": "tecnologia",
+      "setup": "Por que o cookie foi ao terapeuta?",
+      "punchline": "Porque estava com problemas de sessão."
+    },
+    {
+      "id": 19,
+      "categoria": "tecnologia",
+      "setup": "Qual é o esporte favorito do desenvolvedor?",
+      "punchline": "Git push."
+    },
+    {
+      "id": 20,
+      "categoria": "tecnologia",
+      "setup": "Por que o programador levou uma escada para o trabalho?",
+      "punchline": "Para subir de nível no código."
+    },
+    {
+      "id": 21,
+      "categoria": "tecnologia",
+      "setup": "Por que o notebook ficou com frio?",
+      "punchline": "Porque deixaram o Windows aberto."
+    },
+    {
+      "id": 22,
+      "categoria": "tecnologia",
+      "setup": "O que o programador disse ao ver o bug sumir sozinho?",
+      "punchline": "Não mexe, que está funcionando."
+    },
+    {
+      "id": 23,
+      "categoria": "tecnologia",
+      "setup": "Por que o banco de dados terminou o namoro?",
+      "punchline": "Porque havia muitas relações complicadas."
+    },
+    {
+      "id": 24,
+      "categoria": "tecnologia",
+      "setup": "Como o hacker pede café?",
+      "punchline": "Com muita injeção de cafeína."
+    },
+    {
+      "id": 25,
+      "categoria": "tecnologia",
+      "setup": "Por que o loop infinito nunca se cansa?",
+      "punchline": "Porque ele sempre tem mais uma volta."
+    },
+    {
+      "id": 26,
+      "categoria": "tecnologia",
+      "setup": "O que o Linux disse ao Windows?",
+      "punchline": "Você precisa de uma reinicialização, e não só para atualizar."
+    },
+    {
+      "id": 27,
+      "categoria": "tecnologia",
+      "setup": "Por que o programador júnior chorou?",
+      "punchline": "Porque o merge deu conflito."
+    },
+    {
+      "id": 28,
+      "categoria": "tecnologia",
+      "setup": "Qual o filme favorito do programador?",
+      "punchline": "Matrix, porque tem muitos arrays."
+    },
+    {
+      "id": 29,
+      "categoria": "tecnologia",
+      "setup": "Por que a variável ficou triste?",
+      "punchline": "Porque ninguém a chamava de global."
+    },
+    {
+      "id": 30,
+      "categoria": "tecnologia",
+      "setup": "O que a função disse para o parâmetro?",
+      "punchline": "Preciso de você para existir."
+    },
+    {
+      "id": 31,
+      "categoria": "tecnologia",
+      "setup": "Por que o programador não vai à praia?",
+      "punchline": "Porque o sol dá muito glare na tela."
+    },
+    {
+      "id": 32,
+      "categoria": "tecnologia",
+      "setup": "Por que o gato ama programação?",
+      "punchline": "Porque tem muitos mouse clicks."
+    },
+    {
+      "id": 33,
+      "categoria": "tecnologia",
+      "setup": "O que o programador falou ao ver o código antigo?",
+      "punchline": "Quem escreveu isso? Ah, fui eu."
+    },
+    {
+      "id": 34,
+      "categoria": "tecnologia",
+      "setup": "Por que o commit ficou envergonhado?",
+      "punchline": "Porque a mensagem era 'arrumei umas coisas'."
+    },
+    {
+      "id": 35,
+      "categoria": "tecnologia",
+      "setup": "Por que o compilador é um bom amigo?",
+      "punchline": "Porque ele sempre aponta seus erros, mesmo que seja chato."
+    },
+    {
+      "id": 36,
+      "categoria": "tecnologia",
+      "setup": "Qual é a bebida favorita do desenvolvedor mobile?",
+      "punchline": "Flutter com gelo."
+    },
+    {
+      "id": 37,
+      "categoria": "tecnologia",
+      "setup": "Por que a senha foi ao médico?",
+      "punchline": "Porque estava fraca."
+    },
+    {
+      "id": 38,
+      "categoria": "tecnologia",
+      "setup": "O que o programador disse no casamento?",
+      "punchline": "Aceito, mas sem breaking changes."
+    },
+    {
+      "id": 39,
+      "categoria": "tecnologia",
+      "setup": "Por que o Excel é tão ansioso?",
+      "punchline": "Porque vive cheio de células nervosas."
+    },
+    {
+      "id": 40,
+      "categoria": "tecnologia",
+      "setup": "Como o programador faz exercício?",
+      "punchline": "Executando testes de unidade."
+    },
+    {
+      "id": 41,
+      "categoria": "tecnologia",
+      "setup": "Por que o e-mail foi demitido?",
+      "punchline": "Porque nunca respondia a ninguém."
+    },
+    {
+      "id": 42,
+      "categoria": "tecnologia",
+      "setup": "O que o usuário disse depois de fechar sem salvar?",
+      "punchline": "Eu juro que apareceu 'salvar?'"
+    },
+    {
+      "id": 43,
+      "categoria": "tecnologia",
+      "setup": "Por que o programador odeia reunião?",
+      "punchline": "Porque ela não compila nem roda."
+    },
+    {
+      "id": 44,
+      "categoria": "tecnologia",
+      "setup": "Qual a profissão do cabo USB?",
+      "punchline": "Conectar pessoas, mas sempre de ponta-cabeça na primeira tentativa."
+    },
+    {
+      "id": 45,
+      "categoria": "tecnologia",
+      "setup": "Por que o monitor foi tão elogiado?",
+      "punchline": "Porque tinha ótima resolução."
+    },
+    {
+      "id": 46,
+      "categoria": "tecnologia",
+      "setup": "Como se chama a mãe do programador?",
+      "punchline": "Mother-board."
+    },
+    {
+      "id": 47,
+      "categoria": "tecnologia",
+      "setup": "O que a nuvem disse ao desenvolvedor?",
+      "punchline": "Estou sempre em cima de você."
+    },
+    {
+      "id": 48,
+      "categoria": "tecnologia",
+      "setup": "Por que o robô nunca fica estressado?",
+      "punchline": "Porque tem nervos de aço."
+    },
+    {
+      "id": 49,
+      "categoria": "tecnologia",
+      "setup": "Por que o GitHub nunca erra?",
+      "punchline": "Porque faz fork das responsabilidades."
+    },
+    {
+      "id": 50,
+      "categoria": "tecnologia",
+      "setup": "Quem é o rei dos aplicativos?",
+      "punchline": "O Dom Pixel."
+    },
+    {
+      "id": 51,
+      "categoria": "animais",
+      "setup": "O que o pato disse para a pata?",
+      "punchline": "Vem quá!"
+    },
+    {
+      "id": 52,
+      "categoria": "animais",
+      "setup": "Qual é o animal mais antigo do mundo?",
+      "punchline": "A zebra, porque ela é em preto e branco."
+    },
+    {
+      "id": 53,
+      "categoria": "animais",
+      "setup": "Por que o elefante não usa computador?",
+      "punchline": "Porque tem medo do mouse."
+    },
+    {
+      "id": 54,
+      "categoria": "animais",
+      "setup": "O que o gato falou para o cachorro?",
+      "punchline": "Miau, au."
+    },
+    {
+      "id": 55,
+      "categoria": "animais",
+      "setup": "Qual é o cúmulo da paciência?",
+      "punchline": "Esperar o caramujo chegar na hora."
+    },
+    {
+      "id": 56,
+      "categoria": "animais",
+      "setup": "O que a vaca disse ao ver o touro?",
+      "punchline": "Que mu-ito legal."
+    },
+    {
+      "id": 57,
+      "categoria": "animais",
+      "setup": "Por que a galinha atravessou a rua?",
+      "punchline": "Para chegar ao outro lado."
+    },
+    {
+      "id": 58,
+      "categoria": "animais",
+      "setup": "O que o pinguim disse ao ver o gelo?",
+      "punchline": "Que frio na barriga."
+    },
+    {
+      "id": 59,
+      "categoria": "animais",
+      "setup": "Qual é o animal que tem mais memória?",
+      "punchline": "O elefante, porque nunca esquece."
+    },
+    {
+      "id": 60,
+      "categoria": "animais",
+      "setup": "Por que o peixe vive na água?",
+      "punchline": "Porque no ar ele não tem escamas de respirar."
+    },
+    {
+      "id": 61,
+      "categoria": "animais",
+      "setup": "O que o leão falou no restaurante?",
+      "punchline": "Quero a refeição com juba."
+    },
+    {
+      "id": 62,
+      "categoria": "animais",
+      "setup": "Como se chama o cachorro que trabalha em banco?",
+      "punchline": "Cão-ta corrente."
+    },
+    {
+      "id": 63,
+      "categoria": "animais",
+      "setup": "Qual é o cúmulo do cachorro?",
+      "punchline": "Ter um dia de cão."
+    },
+    {
+      "id": 64,
+      "categoria": "animais",
+      "setup": "O que o canguru disse para o filhote?",
+      "punchline": "Fica de bolso, que aqui é seguro."
+    },
+    {
+      "id": 65,
+      "categoria": "animais",
+      "setup": "Por que a girafa não tem amigo?",
+      "punchline": "Porque as conversas dela são sempre de cima."
+    },
+    {
+      "id": 66,
+      "categoria": "animais",
+      "setup": "O que o gato faz no computador?",
+      "punchline": "Procura o mouse."
+    },
+    {
+      "id": 67,
+      "categoria": "animais",
+      "setup": "Qual é o animal mais rápido do mundo?",
+      "punchline": "O leopardo, porque quem pisca o perde."
+    },
+    {
+      "id": 68,
+      "categoria": "animais",
+      "setup": "Por que o cavalo foi à escola?",
+      "punchline": "Para aprender a trotar."
+    },
+    {
+      "id": 69,
+      "categoria": "animais",
+      "setup": "Por que o urso polar não usa casaco?",
+      "punchline": "Porque ele já é bem peludo."
+    },
+    {
+      "id": 70,
+      "categoria": "animais",
+      "setup": "O que o coelho falou ao cenoura?",
+      "punchline": "Você é o meu tipo."
+    },
+    {
+      "id": 71,
+      "categoria": "animais",
+      "setup": "Por que a abelha vive no salão?",
+      "punchline": "Porque ela é a rainha do cabelo (favo)."
+    },
+    {
+      "id": 72,
+      "categoria": "animais",
+      "setup": "Qual é o prato favorito da coruja?",
+      "punchline": "Sopa de letrinhas, porque ela é sábia."
+    },
+    {
+      "id": 73,
+      "categoria": "animais",
+      "setup": "O que o pinguim disse ao amigo?",
+      "punchline": "Vamos nessa, estou na geladeira."
+    },
+    {
+      "id": 74,
+      "categoria": "animais",
+      "setup": "Por que o sapo foi para a faculdade?",
+      "punchline": "Para virar príncipe."
+    },
+    {
+      "id": 75,
+      "categoria": "animais",
+      "setup": "O que o jacaré disse ao cavalo?",
+      "punchline": "Sem pressa, estou só na lagoa."
+    },
+    {
+      "id": 76,
+      "categoria": "animais",
+      "setup": "Qual é o animal que mais odeia segunda-feira?",
+      "punchline": "A preguiça."
+    },
+    {
+      "id": 77,
+      "categoria": "animais",
+      "setup": "Por que o macaco ficou com fome?",
+      "punchline": "Porque só tinha banana prata."
+    },
+    {
+      "id": 78,
+      "categoria": "animais",
+      "setup": "Por que o peixe não usa Wi-Fi?",
+      "punchline": "Porque já está na rede."
+    },
+    {
+      "id": 79,
+      "categoria": "animais",
+      "setup": "Por que a cobra não faz festa?",
+      "punchline": "Porque ela só tem rastejos."
+    },
+    {
+      "id": 80,
+      "categoria": "animais",
+      "setup": "O que o tubarão pediu na lanchonete?",
+      "punchline": "Um hambúrguer com muita barbatana."
+    },
+    {
+      "id": 81,
+      "categoria": "animais",
+      "setup": "O que a formiga disse ao elefante?",
+      "punchline": "Cuidado, não me pisa."
+    },
+    {
+      "id": 82,
+      "categoria": "animais",
+      "setup": "Por que o urso não quer sair da toca?",
+      "punchline": "Porque lá fora é muito frio."
+    },
+    {
+      "id": 83,
+      "categoria": "animais",
+      "setup": "O que o morcego disse ao dormir?",
+      "punchline": "Boa noite, de cabeça pra baixo."
+    },
+    {
+      "id": 84,
+      "categoria": "animais",
+      "setup": "Por que a lagartixa vive na parede?",
+      "punchline": "Porque ela gosta de ficar em cima do muro."
+    },
+    {
+      "id": 85,
+      "categoria": "animais",
+      "setup": "O que o camaleão disse ao entrar em casa?",
+      "punchline": "Eu me adapto a qualquer lugar."
+    },
+    {
+      "id": 86,
+      "categoria": "animais",
+      "setup": "Por que o cachorro foi ao cinema?",
+      "punchline": "Para assistir ao filme de latido."
+    },
+    {
+      "id": 87,
+      "categoria": "animais",
+      "setup": "O que a minhoca fez ao ver a chuva?",
+      "punchline": "Saiu para dar uma volta."
+    },
+    {
+      "id": 88,
+      "categoria": "animais",
+      "setup": "Por que o galo canta de manhã?",
+      "punchline": "Porque ele é pontual e não tem despertador."
+    },
+    {
+      "id": 89,
+      "categoria": "animais",
+      "setup": "Qual é o animal mais educado?",
+      "punchline": "O gato: nunca interrompe, só pede miau licença."
+    },
+    {
+      "id": 90,
+      "categoria": "animais",
+      "setup": "O que o papagaio disse ao advogado?",
+      "punchline": "Repito: sem comentários."
+    },
+    {
+      "id": 91,
+      "categoria": "animais",
+      "setup": "Por que a tartaruga se atrasou?",
+      "punchline": "Porque saiu cedo, mas o caminho era longo."
+    },
+    {
+      "id": 92,
+      "categoria": "animais",
+      "setup": "Qual é o prato favorito do morcego?",
+      "punchline": "Sopa de asas, mas sem comer ninguém."
+    },
+    {
+      "id": 93,
+      "categoria": "animais",
+      "setup": "O que o gato disse ao ver o aspirador?",
+      "punchline": "Alguém pode explicar isso?"
+    },
+    {
+      "id": 94,
+      "categoria": "animais",
+      "setup": "Por que o hipopótamo não tem celular?",
+      "punchline": "Porque ele é muito pesado para andar com ele."
+    },
+    {
+      "id": 95,
+      "categoria": "animais",
+      "setup": "O que o golfinho falou para a baleia?",
+      "punchline": "Você é grande demais pra mim, mas eu gosto de você."
+    },
+    {
+      "id": 96,
+      "categoria": "animais",
+      "setup": "Por que o cachorro anda de moto?",
+      "punchline": "Porque ele adora colocar a língua pro vento."
+    },
+    {
+      "id": 97,
+      "categoria": "animais",
+      "setup": "O que o dromedário falou ao camelo?",
+      "punchline": "Você é uma ótima corcova."
+    },
+    {
+      "id": 98,
+      "categoria": "animais",
+      "setup": "Por que a borboleta trabalha à noite?",
+      "punchline": "Porque ela é de metamorfose."
+    },
+    {
+      "id": 99,
+      "categoria": "animais",
+      "setup": "Qual é o bicho mais bravo?",
+      "punchline": "O leão, porque ele sempre tem um rugido na manga."
+    },
+    {
+      "id": 100,
+      "categoria": "animais",
+      "setup": "O que o peixe disse ao bater na parede?",
+      "punchline": "Dam."
+    },
+    {
+      "id": 101,
+      "categoria": "comida",
+      "setup": "Por que o tomate não pode ficar sozinho?",
+      "punchline": "Porque ele sempre quer molho."
+    },
+    {
+      "id": 102,
+      "categoria": "comida",
+      "setup": "O que o pão disse para o queijo?",
+      "punchline": "Você me completa."
+    },
+    {
+      "id": 103,
+      "categoria": "comida",
+      "setup": "Qual é o cúmulo da fome?",
+      "punchline": "Comer o prato e deixar a comida."
+    },
+    {
+      "id": 104,
+      "categoria": "comida",
+      "setup": "O que a pizza disse ao entregador?",
+      "punchline": "Estou aqui, vai quente."
+    },
+    {
+      "id": 105,
+      "categoria": "comida",
+      "setup": "O que o café disse para o leite?",
+      "punchline": "Sem você eu fico amargo."
+    },
+    {
+      "id": 106,
+      "categoria": "comida",
+      "setup": "Por que a banana foi ao médico?",
+      "punchline": "Porque estava descascada."
+    },
+    {
+      "id": 107,
+      "categoria": "comida",
+      "setup": "Por que o chocolate vive triste?",
+      "punchline": "Porque ele derrete de paixão."
+    },
+    {
+      "id": 108,
+      "categoria": "comida",
+      "setup": "Qual é a comida favorita do fantasma?",
+      "punchline": "Bolo de aniversário, porque é de boo-lo."
+    },
+    {
+      "id": 109,
+      "categoria": "comida",
+      "setup": "Por que a salada é tão educada?",
+      "punchline": "Porque sempre pede licença antes de entrar no prato."
+    },
+    {
+      "id": 110,
+      "categoria": "comida",
+      "setup": "O que o arroz disse ao feijão?",
+      "punchline": "Sem você eu não sou ninguém."
+    },
+    {
+      "id": 111,
+      "categoria": "comida",
+      "setup": "Por que o ovo não conta piada?",
+      "punchline": "Porque ele pode quebrar de rir."
+    },
+    {
+      "id": 112,
+      "categoria": "comida",
+      "setup": "O que a sopa disse ao garfo?",
+      "punchline": "Você não tem nada a ver comigo."
+    },
+    {
+      "id": 113,
+      "categoria": "comida",
+      "setup": "Por que o sorvete nunca faz amigos?",
+      "punchline": "Porque ele derrete na primeira conversa."
+    },
+    {
+      "id": 114,
+      "categoria": "comida",
+      "setup": "Qual é a fruta mais leve?",
+      "punchline": "A pera, porque ela é paz."
+    },
+    {
+      "id": 115,
+      "categoria": "comida",
+      "setup": "O que o limão disse à laranja?",
+      "punchline": "Você é doce demais pra mim."
+    },
+    {
+      "id": 116,
+      "categoria": "comida",
+      "setup": "Por que a manteiga está sempre sorrindo?",
+      "punchline": "Porque ela está sempre no pão."
+    },
+    {
+      "id": 117,
+      "categoria": "comida",
+      "setup": "O que o cachorro-quente disse ao ketchup?",
+      "punchline": "Fica mais um pouco."
+    },
+    {
+      "id": 118,
+      "categoria": "comida",
+      "setup": "Por que o brigadeiro é tão popular?",
+      "punchline": "Porque tem muitos fãs de colher."
+    },
+    {
+      "id": 119,
+      "categoria": "comida",
+      "setup": "O que a farinha disse ao ovo?",
+      "punchline": "Vamos fazer um bolo."
+    },
+    {
+      "id": 120,
+      "categoria": "comida",
+      "setup": "Por que o bolo foi à escola?",
+      "punchline": "Para aprender a crescer."
+    },
+    {
+      "id": 121,
+      "categoria": "comida",
+      "setup": "O que a coxinha falou pro pastel?",
+      "punchline": "Você é frito demais."
+    },
+    {
+      "id": 122,
+      "categoria": "comida",
+      "setup": "Por que a água não é fofoqueira?",
+      "punchline": "Porque ela não tem sabor para contar."
+    },
+    {
+      "id": 123,
+      "categoria": "comida",
+      "setup": "O que o feijão disse ao fogão?",
+      "punchline": "Estou ficando pronto."
+    },
+    {
+      "id": 124,
+      "categoria": "comida",
+      "setup": "Qual é o doce preferido do detetive?",
+      "punchline": "Pudim, porque ele sempre vai atrás de pistas de caramelo."
+    },
+    {
+      "id": 125,
+      "categoria": "comida",
+      "setup": "Por que a uva passou de ano?",
+      "punchline": "Porque já tinha passado."
+    },
+    {
+      "id": 126,
+      "categoria": "comida",
+      "setup": "Por que o macarrão ficou nervoso?",
+      "punchline": "Porque estava em água quente."
+    },
+    {
+      "id": 127,
+      "categoria": "comida",
+      "setup": "O que o espaguete disse ao molho?",
+      "punchline": "Você me deixa sem fio de conversa."
+    },
+    {
+      "id": 128,
+      "categoria": "comida",
+      "setup": "Por que o hambúrguer é sempre bem vestido?",
+      "punchline": "Porque está sempre de pão."
+    },
+    {
+      "id": 129,
+      "categoria": "comida",
+      "setup": "Qual é o cúmulo do cozinheiro?",
+      "punchline": "Cozinhar sem fogo."
+    },
+    {
+      "id": 130,
+      "categoria": "comida",
+      "setup": "Por que o suco ficou chateado?",
+      "punchline": "Porque não tinha polpa."
+    },
+    {
+      "id": 131,
+      "categoria": "comida",
+      "setup": "Por que a melancia foi ao hospital?",
+      "punchline": "Porque estava com semente de dor."
+    },
+    {
+      "id": 132,
+      "categoria": "comida",
+      "setup": "O que a bolacha disse ao leite?",
+      "punchline": "Vamos mergulhar juntos."
+    },
+    {
+      "id": 133,
+      "categoria": "comida",
+      "setup": "Por que o café foi dormir cedo?",
+      "punchline": "Porque estava com insônia de açúcar."
+    },
+    {
+      "id": 134,
+      "categoria": "comida",
+      "setup": "O que o sal disse ao açúcar?",
+      "punchline": "Somos opostos, mas combinamos."
+    },
+    {
+      "id": 135,
+      "categoria": "comida",
+      "setup": "Por que a pipoca é tão animada?",
+      "punchline": "Porque ela vive estourando de alegria."
+    },
+    {
+      "id": 136,
+      "categoria": "comida",
+      "setup": "O que o queijo disse ao ser fotografado?",
+      "punchline": "Xis!"
+    },
+    {
+      "id": 137,
+      "categoria": "comida",
+      "setup": "Por que o bolo de cenoura chora?",
+      "punchline": "Porque está coberto de chocolate demais."
+    },
+    {
+      "id": 138,
+      "categoria": "comida",
+      "setup": "Como o tomate se despede?",
+      "punchline": "Ketchup-se bem!"
+    },
+    {
+      "id": 139,
+      "categoria": "comida",
+      "setup": "Por que a abóbora virou carruagem?",
+      "punchline": "Porque a fada madrinha trocou o recheio."
+    },
+    {
+      "id": 140,
+      "categoria": "comida",
+      "setup": "O que o pudim falou ao flan?",
+      "punchline": "Somos parentes distantes."
+    },
+    {
+      "id": 141,
+      "categoria": "comida",
+      "setup": "Por que a cebola faz chorar?",
+      "punchline": "Porque ela é dramática."
+    },
+    {
+      "id": 142,
+      "categoria": "comida",
+      "setup": "O que o presunto disse ao pão?",
+      "punchline": "Estamos em um sanduíche sério."
+    },
+    {
+      "id": 143,
+      "categoria": "comida",
+      "setup": "Por que o milho é tão invejado?",
+      "punchline": "Porque tem muitos grãos de sucesso."
+    },
+    {
+      "id": 144,
+      "categoria": "comida",
+      "setup": "O que a maçã falou ao médico?",
+      "punchline": "Estou em dia, só preciso de mais sol."
+    },
+    {
+      "id": 145,
+      "categoria": "comida",
+      "setup": "Por que a pizza não tem medo?",
+      "punchline": "Porque ela sempre está em forma de círculo."
+    },
+    {
+      "id": 146,
+      "categoria": "comida",
+      "setup": "O que o leite disse à vaca?",
+      "punchline": "Obrigado por me trazer ao mundo."
+    },
+    {
+      "id": 147,
+      "categoria": "comida",
+      "setup": "Por que o sanduíche nunca se perde?",
+      "punchline": "Porque tem dois pães de companhia."
+    },
+    {
+      "id": 148,
+      "categoria": "comida",
+      "setup": "O que o abacate disse à salada?",
+      "punchline": "Estou no meio de uma crise de guacamole."
+    },
+    {
+      "id": 149,
+      "categoria": "comida",
+      "setup": "Por que o churros é divertido?",
+      "punchline": "Porque está sempre cheio de recheio."
+    },
+    {
+      "id": 150,
+      "categoria": "comida",
+      "setup": "Qual é o cúmulo do vegetariano?",
+      "punchline": "Comer uma salada de frango."
+    },
+    {
+      "id": 151,
+      "categoria": "comida",
+      "setup": "Por que o pão de queijo nunca fica triste?",
+      "punchline": "Porque é Minas de felicidade."
+    },
+    {
+      "id": 152,
+      "categoria": "escola",
+      "setup": "Por que o livro de matemática estava triste?",
+      "punchline": "Porque tinha muitos problemas."
+    },
+    {
+      "id": 153,
+      "categoria": "escola",
+      "setup": "O que o zero disse para o oito?",
+      "punchline": "Bonito cinto!"
+    },
+    {
+      "id": 154,
+      "categoria": "escola",
+      "setup": "Por que o aluno levou o relógio para a prova?",
+      "punchline": "Porque queria passar o tempo."
+    },
+    {
+      "id": 155,
+      "categoria": "escola",
+      "setup": "O que o professor disse ao ver a prova em branco?",
+      "punchline": "Pelo menos o aluno foi sincero."
+    },
+    {
+      "id": 156,
+      "categoria": "escola",
+      "setup": "Por que o aluno comeu o dever?",
+      "punchline": "Porque o professor disse que era moleza."
+    },
+    {
+      "id": 157,
+      "categoria": "escola",
+      "setup": "Qual é a matéria favorita do fantasma?",
+      "punchline": "História, porque ela é cheia de espíritos antigos."
+    },
+    {
+      "id": 158,
+      "categoria": "escola",
+      "setup": "Por que o aluno trouxe uma escada para a escola?",
+      "punchline": "Porque queria subir de ano."
+    },
+    {
+      "id": 159,
+      "categoria": "escola",
+      "setup": "O que o caderno disse à caneta?",
+      "punchline": "Sem você, eu fico em branco."
+    },
+    {
+      "id": 160,
+      "categoria": "escola",
+      "setup": "Por que o professor usava óculos escuros?",
+      "punchline": "Porque os alunos eram brilhantes."
+    },
+    {
+      "id": 161,
+      "categoria": "escola",
+      "setup": "Qual é o cúmulo da distração?",
+      "punchline": "Esquecer o nome da própria mochila."
+    },
+    {
+      "id": 162,
+      "categoria": "escola",
+      "setup": "O que o lápis disse à borracha?",
+      "punchline": "Sem você, ninguém erra com estilo."
+    },
+    {
+      "id": 163,
+      "categoria": "escola",
+      "setup": "Por que o aluno dormiu em sala?",
+      "punchline": "Porque o professor tinha uma voz de ninar."
+    },
+    {
+      "id": 164,
+      "categoria": "escola",
+      "setup": "Por que o relógio da escola é rápido?",
+      "punchline": "Porque a aula dura pouco quando é boa."
+    },
+    {
+      "id": 165,
+      "categoria": "escola",
+      "setup": "O que a régua disse ao compasso?",
+      "punchline": "Você faz voltas demais."
+    },
+    {
+      "id": 166,
+      "categoria": "escola",
+      "setup": "Por que a calculadora chorou?",
+      "punchline": "Porque havia muita divisão."
+    },
+    {
+      "id": 167,
+      "categoria": "escola",
+      "setup": "Qual é o prato favorito do professor de física?",
+      "punchline": "Sopa de partículas."
+    },
+    {
+      "id": 168,
+      "categoria": "escola",
+      "setup": "Por que o aluno de geografia foi ao mapa?",
+      "punchline": "Porque estava perdido."
+    },
+    {
+      "id": 169,
+      "categoria": "escola",
+      "setup": "O que o quadro disse ao giz?",
+      "punchline": "Escreve devagar, que eu sinto cócegas."
+    },
+    {
+      "id": 170,
+      "categoria": "escola",
+      "setup": "Por que o aluno jogou o livro de português?",
+      "punchline": "Porque não aguentava mais tanta crase."
+    },
+    {
+      "id": 171,
+      "categoria": "escola",
+      "setup": "O que o professor de química disse ao aluno?",
+      "punchline": "Fique à vontade, só não explode."
+    },
+    {
+      "id": 172,
+      "categoria": "escola",
+      "setup": "Por que a mochila do aluno estava pesada?",
+      "punchline": "Porque estava cheia de desculpas."
+    },
+    {
+      "id": 173,
+      "categoria": "escola",
+      "setup": "Qual é o cúmulo do aluno de história?",
+      "punchline": "Esquecer o que aconteceu ontem."
+    },
+    {
+      "id": 174,
+      "categoria": "escola",
+      "setup": "Por que o aluno estava sorrindo na prova?",
+      "punchline": "Porque colou o sorriso do colega."
+    },
+    {
+      "id": 175,
+      "categoria": "escola",
+      "setup": "O que o professor disse sobre o aluno atrasado?",
+      "punchline": "Ele sempre chega no futuro."
+    },
+    {
+      "id": 176,
+      "categoria": "escola",
+      "setup": "Por que o aluno de biologia levou uma planta à escola?",
+      "punchline": "Para tirar uma nota verde."
+    },
+    {
+      "id": 177,
+      "categoria": "escola",
+      "setup": "O que o número 1 disse ao 10?",
+      "punchline": "Eu sou o início, você é o zero de sucesso."
+    },
+    {
+      "id": 178,
+      "categoria": "escola",
+      "setup": "Por que o professor de inglês é tão engraçado?",
+      "punchline": "Porque ele conta piadas em duas línguas."
+    },
+    {
+      "id": 179,
+      "categoria": "escola",
+      "setup": "Por que o aluno pediu para ir ao banheiro 10 vezes?",
+      "punchline": "Para fugir da conta de dividir."
+    },
+    {
+      "id": 180,
+      "categoria": "escola",
+      "setup": "O que a apostila disse ao aluno?",
+      "punchline": "Você não vai me ler, mas vai me carregar."
+    },
+    {
+      "id": 181,
+      "categoria": "escola",
+      "setup": "Qual é a música favorita do aluno de física?",
+      "punchline": "Gravidade, porque tudo cai nela."
+    },
+    {
+      "id": 182,
+      "categoria": "escola",
+      "setup": "Por que o aluno estava de olho no relógio?",
+      "punchline": "Porque ele era contador de tempo."
+    },
+    {
+      "id": 183,
+      "categoria": "escola",
+      "setup": "O que a letra A disse à letra B?",
+      "punchline": "Você é o próximo na fila."
+    },
+    {
+      "id": 184,
+      "categoria": "escola",
+      "setup": "O que o professor de matemática disse ao ver o aluno na porta?",
+      "punchline": "Entre, mas não traga problemas."
+    },
+    {
+      "id": 185,
+      "categoria": "escola",
+      "setup": "Por que o aluno trouxe um balde para a aula?",
+      "punchline": "Porque o professor disse que ia chover dever."
+    },
+    {
+      "id": 186,
+      "categoria": "escola",
+      "setup": "Qual é o cúmulo da educação?",
+      "punchline": "Pedir licença antes de errar."
+    },
+    {
+      "id": 187,
+      "categoria": "escola",
+      "setup": "Por que a escola está cheia de cadeiras?",
+      "punchline": "Porque ninguém quer ficar em pé na prova."
+    },
+    {
+      "id": 188,
+      "categoria": "escola",
+      "setup": "O que o aluno de artes pintou?",
+      "punchline": "O professor dormindo, em tons de cinza."
+    },
+    {
+      "id": 189,
+      "categoria": "escola",
+      "setup": "Por que a prova ficou nervosa?",
+      "punchline": "Porque estava cheia de questões."
+    },
+    {
+      "id": 190,
+      "categoria": "escola",
+      "setup": "O que o aluno disse ao diretor?",
+      "punchline": "Eu estava só passando para dar um oi, e levei advertência."
+    },
+    {
+      "id": 191,
+      "categoria": "escola",
+      "setup": "Por que o professor de música trouxe um espelho?",
+      "punchline": "Para mostrar aos alunos que estão fora do tom."
+    },
+    {
+      "id": 192,
+      "categoria": "escola",
+      "setup": "Qual é o cúmulo do professor?",
+      "punchline": "Reprovar o próprio filho."
+    },
+    {
+      "id": 193,
+      "categoria": "escola",
+      "setup": "O que o recreio disse ao sinal?",
+      "punchline": "Chega mais cedo, que a fome é grande."
+    },
+    {
+      "id": 194,
+      "categoria": "escola",
+      "setup": "Por que o aluno de física nunca atrasa?",
+      "punchline": "Porque ele sabe tudo sobre velocidade."
+    },
+    {
+      "id": 195,
+      "categoria": "escola",
+      "setup": "O que o professor falou ao aluno que não sabia nada?",
+      "punchline": "Você tem muito espaço para crescer."
+    },
+    {
+      "id": 196,
+      "categoria": "escola",
+      "setup": "Por que o aluno foi à escola com um guarda-chuva?",
+      "punchline": "Porque a previsão era de tempestade de provas."
+    },
+    {
+      "id": 197,
+      "categoria": "escola",
+      "setup": "O que o aluno de química disse ao chegar atrasado?",
+      "punchline": "Reagi tarde, mas cheguei."
+    },
+    {
+      "id": 198,
+      "categoria": "escola",
+      "setup": "Por que a lousa digital não se perde?",
+      "punchline": "Porque tem sempre uma tela de apoio."
+    },
+    {
+      "id": 199,
+      "categoria": "escola",
+      "setup": "O que a nota 10 disse à nota 5?",
+      "punchline": "Eu vou te ajudar a subir."
+    },
+    {
+      "id": 200,
+      "categoria": "escola",
+      "setup": "Por que o aluno levou um espelho para a prova?",
+      "punchline": "Para ver se a resposta estava refletida."
+    },
+    {
+      "id": 201,
+      "categoria": "escola",
+      "setup": "Por que o aluno de informática é bom em contar?",
+      "punchline": "Porque conhece os bits."
+    },
+    {
+      "id": 202,
+      "categoria": "trabalho",
+      "setup": "Por que o chefe foi ao oculista?",
+      "punchline": "Porque não enxergava as próprias falhas."
+    },
+    {
+      "id": 203,
+      "categoria": "trabalho",
+      "setup": "O que o funcionário disse ao ver o relógio?",
+      "punchline": "Ainda falta uma eternidade."
+    },
+    {
+      "id": 204,
+      "categoria": "trabalho",
+      "setup": "Qual é o cúmulo do estagiário?",
+      "punchline": "Pedir demissão antes de ser contratado."
+    },
+    {
+      "id": 205,
+      "categoria": "trabalho",
+      "setup": "Por que o café é tão importante no escritório?",
+      "punchline": "Porque sem ele ninguém funciona."
+    },
+    {
+      "id": 206,
+      "categoria": "trabalho",
+      "setup": "O que o despertador disse ao funcionário?",
+      "punchline": "Levanta, o chefe está esperando."
+    },
+    {
+      "id": 207,
+      "categoria": "trabalho",
+      "setup": "Por que o funcionário levou uma cama para o trabalho?",
+      "punchline": "Porque queria descansar em reuniões."
+    },
+    {
+      "id": 208,
+      "categoria": "trabalho",
+      "setup": "O que o e-mail disse ao funcionário de férias?",
+      "punchline": "Eu te encontro assim que você voltar."
+    },
+    {
+      "id": 209,
+      "categoria": "trabalho",
+      "setup": "Por que a reunião durou três horas?",
+      "punchline": "Porque ninguém queria ser o primeiro a sair."
+    },
+    {
+      "id": 210,
+      "categoria": "trabalho",
+      "setup": "Qual é o cúmulo do vendedor?",
+      "punchline": "Vender areia a um beduíno e entregar o deserto."
+    },
+    {
+      "id": 211,
+      "categoria": "trabalho",
+      "setup": "O que o gerente disse ao ver o prazo estourado?",
+      "punchline": "Isso foi só uma sugestão de data."
+    },
+    {
+      "id": 212,
+      "categoria": "trabalho",
+      "setup": "Por que o funcionário ama sexta-feira?",
+      "punchline": "Porque é o único dia sem segunda-feira dentro."
+    },
+    {
+      "id": 213,
+      "categoria": "trabalho",
+      "setup": "O que o crachá disse ao dono?",
+      "punchline": "Estou preso a você."
+    },
+    {
+      "id": 214,
+      "categoria": "trabalho",
+      "setup": "Por que o pedreiro nunca fica nervoso?",
+      "punchline": "Porque ele sabe levantar paredes."
+    },
+    {
+      "id": 215,
+      "categoria": "trabalho",
+      "setup": "O que o eletricista disse ao chefe?",
+      "punchline": "Estou com a corrente do bem."
+    },
+    {
+      "id": 216,
+      "categoria": "trabalho",
+      "setup": "Por que o contador estava triste?",
+      "punchline": "Porque suas contas não batiam com os sonhos."
+    },
+    {
+      "id": 217,
+      "categoria": "trabalho",
+      "setup": "O que o garçom respondeu ao cliente irritado?",
+      "punchline": "Estou aqui para servir, não para ser servido de reclamação."
+    },
+    {
+      "id": 218,
+      "categoria": "trabalho",
+      "setup": "Qual é o cúmulo do motorista?",
+      "punchline": "Perder a direção da própria vida."
+    },
+    {
+      "id": 219,
+      "categoria": "trabalho",
+      "setup": "O que o padeiro disse ao ver a fila?",
+      "punchline": "Estou em alta, mas a massa está baixa."
+    },
+    {
+      "id": 220,
+      "categoria": "trabalho",
+      "setup": "Por que o jardineiro nunca briga?",
+      "punchline": "Porque ele corta o mal pela raiz."
+    },
+    {
+      "id": 221,
+      "categoria": "trabalho",
+      "setup": "Por que o mecânico estava sorrindo?",
+      "punchline": "Porque o carro estava em boas mãos."
+    },
+    {
+      "id": 222,
+      "categoria": "trabalho",
+      "setup": "O que o cabeleireiro disse ao cliente?",
+      "punchline": "Vamos mudar tudo, menos o seu nome."
+    },
+    {
+      "id": 223,
+      "categoria": "trabalho",
+      "setup": "Por que o advogado foi pescar?",
+      "punchline": "Porque queria ganhar a causa com iscas."
+    },
+    {
+      "id": 224,
+      "categoria": "trabalho",
+      "setup": "Qual é o cúmulo do pintor?",
+      "punchline": "Ficar sem cor na hora da raiva."
+    },
+    {
+      "id": 225,
+      "categoria": "trabalho",
+      "setup": "O que a faxineira disse ao chefe?",
+      "punchline": "Eu tiro o pó, mas você tira o orgulho."
+    },
+    {
+      "id": 226,
+      "categoria": "trabalho",
+      "setup": "Por que o ator foi ao médico?",
+      "punchline": "Porque estava sem fôlego no segundo ato."
+    },
+    {
+      "id": 227,
+      "categoria": "trabalho",
+      "setup": "Qual é o cúmulo do cozinheiro preguiçoso?",
+      "punchline": "Pedir delivery para comer na própria cozinha."
+    },
+    {
+      "id": 228,
+      "categoria": "trabalho",
+      "setup": "O que o segurança disse ao ladrão?",
+      "punchline": "Aqui só entra com crachá."
+    },
+    {
+      "id": 229,
+      "categoria": "trabalho",
+      "setup": "Por que o bombeiro nunca perde a calma?",
+      "punchline": "Porque ele sabe apagar incêndios."
+    },
+    {
+      "id": 230,
+      "categoria": "trabalho",
+      "setup": "O que o taxista disse ao passageiro perdido?",
+      "punchline": "Eu também estou, mas o taxímetro sabe o caminho."
+    },
+    {
+      "id": 231,
+      "categoria": "trabalho",
+      "setup": "Por que o médico chegou cedo?",
+      "punchline": "Porque tinha pressa de salvar o dia."
+    },
+    {
+      "id": 232,
+      "categoria": "trabalho",
+      "setup": "O que o dentista disse ao paciente nervoso?",
+      "punchline": "Abra o coração, ou melhor, a boca."
+    },
+    {
+      "id": 233,
+      "categoria": "trabalho",
+      "setup": "Por que o professor de ginástica é tão ocupado?",
+      "punchline": "Porque está sempre correndo atrás de alunos."
+    },
+    {
+      "id": 234,
+      "categoria": "trabalho",
+      "setup": "Qual é o cúmulo do carteiro?",
+      "punchline": "Entregar uma carta sem nunca receber resposta."
+    },
+    {
+      "id": 235,
+      "categoria": "trabalho",
+      "setup": "O que o cliente disse ao garçom?",
+      "punchline": "Eu não pedi isso, mas parece delicioso."
+    },
+    {
+      "id": 236,
+      "categoria": "trabalho",
+      "setup": "O que o chefe disse ao funcionário atrasado?",
+      "punchline": "Você chegou na hora, mas a hora já passou."
+    },
+    {
+      "id": 237,
+      "categoria": "trabalho",
+      "setup": "Por que o fazendeiro estava feliz?",
+      "punchline": "Porque a colheita foi boa e a fofoca também."
+    },
+    {
+      "id": 238,
+      "categoria": "trabalho",
+      "setup": "O que o arquiteto disse ao cliente?",
+      "punchline": "Vamos construir castelos, mas sem sonhar demais."
+    },
+    {
+      "id": 239,
+      "categoria": "trabalho",
+      "setup": "Por que o policial foi ao cinema?",
+      "punchline": "Para assistir a um filme de ação."
+    },
+    {
+      "id": 240,
+      "categoria": "trabalho",
+      "setup": "Por que o músico ficou famoso?",
+      "punchline": "Porque sempre estava no tom certo."
+    },
+    {
+      "id": 241,
+      "categoria": "trabalho",
+      "setup": "O que o piloto disse ao copiloto?",
+      "punchline": "Mantenha a calma, estamos no ar."
+    },
+    {
+      "id": 242,
+      "categoria": "trabalho",
+      "setup": "Por que o pescador volta sempre feliz?",
+      "punchline": "Porque ele nunca perde a esperança."
+    },
+    {
+      "id": 243,
+      "categoria": "trabalho",
+      "setup": "O que o gerente disse sobre a reunião?",
+      "punchline": "Podia ter sido um e-mail, mas ninguém leu."
+    },
+    {
+      "id": 244,
+      "categoria": "trabalho",
+      "setup": "Por que o cliente foi tão simpático?",
+      "punchline": "Porque queria desconto."
+    },
+    {
+      "id": 245,
+      "categoria": "trabalho",
+      "setup": "O que o vendedor disse ao cliente que não comprou?",
+      "punchline": "Volte sempre, a conversa foi ótima."
+    },
+    {
+      "id": 246,
+      "categoria": "trabalho",
+      "setup": "Qual é o cúmulo do escritor?",
+      "punchline": "Ficar sem inspiração e sem café."
+    },
+    {
+      "id": 247,
+      "categoria": "trabalho",
+      "setup": "O que o fotógrafo disse ao modelo?",
+      "punchline": "Fique parado, a vida passa rápido."
+    },
+    {
+      "id": 248,
+      "categoria": "trabalho",
+      "setup": "Por que o relógio de ponto é tão sério?",
+      "punchline": "Porque não aceita atrasos."
+    },
+    {
+      "id": 249,
+      "categoria": "trabalho",
+      "setup": "O que o estagiário perguntou ao chefe?",
+      "punchline": "Posso ter um aumento ou só um elogio?"
+    },
+    {
+      "id": 250,
+      "categoria": "trabalho",
+      "setup": "Por que o programador freelancer nunca dorme?",
+      "punchline": "Porque o prazo nunca deixa."
+    },
+    {
+      "id": 251,
+      "categoria": "trabalho",
+      "setup": "O que a impressora disse ao funcionário?",
+      "punchline": "Estou sem papel, mas com muita atitude."
+    },
+    {
+      "id": 252,
+      "categoria": "trabalho",
+      "setup": "O que o RH disse ao funcionário cansado?",
+      "punchline": "Isso é normal, tente dormir no horário do almoço."
+    },
+    {
+      "id": 253,
+      "categoria": "familia",
+      "setup": "O que a sogra disse ao genro?",
+      "punchline": "Estou só dando uma passadinha de três meses."
+    },
+    {
+      "id": 254,
+      "categoria": "familia",
+      "setup": "Por que o marido se perde em supermercado?",
+      "punchline": "Porque as prateleiras o chamam por conta de ofertas."
+    },
+    {
+      "id": 255,
+      "categoria": "familia",
+      "setup": "Qual é o cúmulo da sorte?",
+      "punchline": "Casar e ainda ter o controle remoto."
+    },
+    {
+      "id": 256,
+      "categoria": "familia",
+      "setup": "O que a mãe disse ao filho que não arrumou o quarto?",
+      "punchline": "Quando você tiver seus filhos, vai entender."
+    },
+    {
+      "id": 257,
+      "categoria": "familia",
+      "setup": "O que o pai disse ao ver a conta de luz?",
+      "punchline": "Quem deixou a luz acesa de novo?"
+    },
+    {
+      "id": 258,
+      "categoria": "familia",
+      "setup": "Por que o marido nunca ganha discussão?",
+      "punchline": "Porque a esposa tem sempre um argumento a mais."
+    },
+    {
+      "id": 259,
+      "categoria": "familia",
+      "setup": "Qual é o cúmulo da paciência de uma mãe?",
+      "punchline": "Esperar o filho terminar o jogo para ir jantar."
+    },
+    {
+      "id": 260,
+      "categoria": "familia",
+      "setup": "O que o filho respondeu à mãe?",
+      "punchline": "Já vou, só mais cinco minutos (de três horas)."
+    },
+    {
+      "id": 261,
+      "categoria": "familia",
+      "setup": "Por que o avô conta sempre as mesmas histórias?",
+      "punchline": "Porque já esqueceu as outras."
+    },
+    {
+      "id": 262,
+      "categoria": "familia",
+      "setup": "O que a vovó disse ao neto magrinho?",
+      "punchline": "Come mais, que eu fiz comida pra um batalhão."
+    },
+    {
+      "id": 263,
+      "categoria": "familia",
+      "setup": "Por que o marido gosta de pescar?",
+      "punchline": "Porque é o único lugar onde ninguém pergunta onde ele estava."
+    },
+    {
+      "id": 264,
+      "categoria": "familia",
+      "setup": "O que a esposa disse ao ver o marido cozinhando?",
+      "punchline": "Tem certeza de que sabe o que está fazendo?"
+    },
+    {
+      "id": 265,
+      "categoria": "familia",
+      "setup": "Por que o casal foi ao terapeuta?",
+      "punchline": "Porque ele dizia 'sim' e ela entendia 'talvez'."
+    },
+    {
+      "id": 266,
+      "categoria": "familia",
+      "setup": "O que a mãe disse ao filho com fome?",
+      "punchline": "Tem comida na geladeira, só procurar com carinho."
+    },
+    {
+      "id": 267,
+      "categoria": "familia",
+      "setup": "Qual é o cúmulo do pai?",
+      "punchline": "Contar piada e rir sozinho."
+    },
+    {
+      "id": 268,
+      "categoria": "familia",
+      "setup": "O que o pai disse ao ver o boletim?",
+      "punchline": "Vamos conversar, mas só depois do jantar."
+    },
+    {
+      "id": 269,
+      "categoria": "familia",
+      "setup": "Por que o filho não conta nada à mãe?",
+      "punchline": "Porque ela já sabe de tudo antes."
+    },
+    {
+      "id": 270,
+      "categoria": "familia",
+      "setup": "O que o irmão disse à irmã?",
+      "punchline": "Você pode me emprestar? Prometo que devolvo (talvez)."
+    },
+    {
+      "id": 271,
+      "categoria": "familia",
+      "setup": "Por que a esposa nunca esquece o aniversário de casamento?",
+      "punchline": "Porque o marido sempre esquece."
+    },
+    {
+      "id": 272,
+      "categoria": "familia",
+      "setup": "O que o marido disse ao esquecer a data?",
+      "punchline": "Eu estava só testando você."
+    },
+    {
+      "id": 273,
+      "categoria": "familia",
+      "setup": "O que a tia disse na festa?",
+      "punchline": "Nossa, como você cresceu!"
+    },
+    {
+      "id": 274,
+      "categoria": "familia",
+      "setup": "Por que o primo é sempre o mais divertido?",
+      "punchline": "Porque ele não precisa obedecer às regras da casa."
+    },
+    {
+      "id": 275,
+      "categoria": "familia",
+      "setup": "O que o bebê disse à mamãe?",
+      "punchline": "Buá."
+    },
+    {
+      "id": 276,
+      "categoria": "familia",
+      "setup": "Por que o pai ama churrasco?",
+      "punchline": "Porque é o único dia em que ele manda na cozinha."
+    },
+    {
+      "id": 277,
+      "categoria": "familia",
+      "setup": "O que a avó disse ao neto na internet?",
+      "punchline": "Quem é esse tal de Google que sabe de tudo?"
+    },
+    {
+      "id": 278,
+      "categoria": "familia",
+      "setup": "Por que o filho adora dormir na casa da vovó?",
+      "punchline": "Porque lá ninguém manda ele dormir."
+    },
+    {
+      "id": 279,
+      "categoria": "familia",
+      "setup": "O que a madrinha disse à afilhada?",
+      "punchline": "Cuidado com o que você pede, porque eu realizo."
+    },
+    {
+      "id": 280,
+      "categoria": "familia",
+      "setup": "Por que o tio conta piadas ruins?",
+      "punchline": "Porque o riso dele vale mais que a piada."
+    },
+    {
+      "id": 281,
+      "categoria": "familia",
+      "setup": "O que o sogro disse ao novo genro?",
+      "punchline": "Seja bem-vindo à família, o aluguel é salgado."
+    },
+    {
+      "id": 282,
+      "categoria": "familia",
+      "setup": "O que o pai disse ao ver o filho na internet?",
+      "punchline": "Isso aí dá dinheiro?"
+    },
+    {
+      "id": 283,
+      "categoria": "familia",
+      "setup": "Por que a mãe nunca erra o nome dos filhos?",
+      "punchline": "Porque ela passa por todos até acertar."
+    },
+    {
+      "id": 284,
+      "categoria": "familia",
+      "setup": "O que o casal disse sobre a viagem?",
+      "punchline": "Foi ótima, só faltou voltar mais cedo."
+    },
+    {
+      "id": 285,
+      "categoria": "familia",
+      "setup": "O que o filho disse ao ver a mesada?",
+      "punchline": "É pouco, mas dá pra sonhar."
+    },
+    {
+      "id": 286,
+      "categoria": "familia",
+      "setup": "Por que o noivo ficou nervoso?",
+      "punchline": "Porque o 'sim' era mais difícil de dizer do que parecia."
+    },
+    {
+      "id": 287,
+      "categoria": "familia",
+      "setup": "O que a sogra disse sobre a sopa?",
+      "punchline": "Está boa, mas na minha casa é melhor."
+    },
+    {
+      "id": 288,
+      "categoria": "familia",
+      "setup": "O que o avô disse ao neto?",
+      "punchline": "No meu tempo era tudo diferente, e eu andava descalço pra escola."
+    },
+    {
+      "id": 289,
+      "categoria": "familia",
+      "setup": "Por que o casal combina tanto?",
+      "punchline": "Porque ambos esquecem onde deixaram as chaves."
+    },
+    {
+      "id": 290,
+      "categoria": "familia",
+      "setup": "O que a mãe disse ao filho que quebrou o vaso?",
+      "punchline": "Foi o vento, né?"
+    },
+    {
+      "id": 291,
+      "categoria": "familia",
+      "setup": "Por que o gêmeo foi preso?",
+      "punchline": "Porque o irmão saiu com a camisa dele."
+    },
+    {
+      "id": 292,
+      "categoria": "familia",
+      "setup": "O que o pai disse ao filho mecânico?",
+      "punchline": "Não esquece de me dar desconto."
+    },
+    {
+      "id": 293,
+      "categoria": "familia",
+      "setup": "O que a vizinha disse à mãe?",
+      "punchline": "Seu filho é um anjo, quando está dormindo."
+    },
+    {
+      "id": 294,
+      "categoria": "familia",
+      "setup": "Por que o marido nunca acha as meias?",
+      "punchline": "Porque elas fogem com a esposa."
+    },
+    {
+      "id": 295,
+      "categoria": "familia",
+      "setup": "O que o genro respondeu ao sogro?",
+      "punchline": "Eu cuido bem dela, mas ela cuida melhor de mim."
+    },
+    {
+      "id": 296,
+      "categoria": "familia",
+      "setup": "Por que a mãe está sempre cansada?",
+      "punchline": "Porque trabalha em tempo integral e hora extra."
+    },
+    {
+      "id": 297,
+      "categoria": "familia",
+      "setup": "O que a criança disse ao ver a mamãe chorando?",
+      "punchline": "Foi o pai que esqueceu o jantar?"
+    },
+    {
+      "id": 298,
+      "categoria": "familia",
+      "setup": "O que o pai disse no Natal?",
+      "punchline": "Alguém pode desligar o pisca-pisca?"
+    },
+    {
+      "id": 299,
+      "categoria": "familia",
+      "setup": "Por que o filho prefere o celular ao pai?",
+      "punchline": "Porque o celular não pergunta sobre o dever."
+    },
+    {
+      "id": 300,
+      "categoria": "familia",
+      "setup": "O que a avó diz sempre?",
+      "punchline": "Sente-se, já vou trazer um bolinho."
+    },
+    {
+      "id": 301,
+      "categoria": "familia",
+      "setup": "O que o marido disse sobre a decoração?",
+      "punchline": "Está linda, só não entendi o que é."
+    },
+    {
+      "id": 302,
+      "categoria": "familia",
+      "setup": "Por que a família se reúne no domingo?",
+      "punchline": "Para discutir quem vai lavar a louça."
+    },
+    {
+      "id": 303,
+      "categoria": "saude",
+      "setup": "O que o médico disse ao paciente distraído?",
+      "punchline": "Seu caso é sério, mas você não presta atenção."
+    },
+    {
+      "id": 304,
+      "categoria": "saude",
+      "setup": "Por que o médico estava tão feliz?",
+      "punchline": "Porque o paciente ficou bom."
+    },
+    {
+      "id": 305,
+      "categoria": "saude",
+      "setup": "O que o dentista falou à criança?",
+      "punchline": "Não precisa ter medo, só um beliscãozinho."
+    },
+    {
+      "id": 306,
+      "categoria": "saude",
+      "setup": "O que o paciente disse ao médico?",
+      "punchline": "Doutor, estou esquecido. O médico: desde quando? Paciente: desde quando o quê?"
+    },
+    {
+      "id": 307,
+      "categoria": "saude",
+      "setup": "Qual é o cúmulo do hipocondríaco?",
+      "punchline": "Ficar doente só de ler a bula."
+    },
+    {
+      "id": 308,
+      "categoria": "saude",
+      "setup": "Por que o remédio foi ao psicólogo?",
+      "punchline": "Porque tinha efeito colateral emocional."
+    },
+    {
+      "id": 309,
+      "categoria": "saude",
+      "setup": "O que o termômetro disse ao paciente?",
+      "punchline": "Você está quente demais pra mim."
+    },
+    {
+      "id": 310,
+      "categoria": "saude",
+      "setup": "Por que a enfermeira tem tanta paciência?",
+      "punchline": "Porque trabalha com pacientes."
+    },
+    {
+      "id": 311,
+      "categoria": "saude",
+      "setup": "O que o médico disse ao jogador de futebol?",
+      "punchline": "Seu joelho precisa de um intervalo."
+    },
+    {
+      "id": 312,
+      "categoria": "saude",
+      "setup": "Por que o paciente foi ao dentista?",
+      "punchline": "Porque estava com dor de dente e de cotovelo."
+    },
+    {
+      "id": 313,
+      "categoria": "saude",
+      "setup": "O que o coração disse ao cérebro?",
+      "punchline": "Eu sinto, você pensa, mas quem decide sou eu."
+    },
+    {
+      "id": 314,
+      "categoria": "saude",
+      "setup": "Qual é o cúmulo do dentista?",
+      "punchline": "Ser pago em moedas de ouro."
+    },
+    {
+      "id": 315,
+      "categoria": "saude",
+      "setup": "Por que o médico leva uma caneta extra?",
+      "punchline": "Porque se a primeira falhar, ele escreve receita."
+    },
+    {
+      "id": 316,
+      "categoria": "saude",
+      "setup": "O que o paciente disse na consulta?",
+      "punchline": "Doutor, estou ouvindo vozes. O médico: e o que elas dizem? Paciente: que o senhor demorou."
+    },
+    {
+      "id": 317,
+      "categoria": "saude",
+      "setup": "Por que o oculista foi ao show?",
+      "punchline": "Para ter uma visão geral."
+    },
+    {
+      "id": 318,
+      "categoria": "saude",
+      "setup": "O que a vacina disse ao braço?",
+      "punchline": "Não dói nada, é só um estalinho."
+    },
+    {
+      "id": 319,
+      "categoria": "saude",
+      "setup": "Por que a gripe adora o inverno?",
+      "punchline": "Porque é o melhor momento para espirrar."
+    },
+    {
+      "id": 320,
+      "categoria": "saude",
+      "setup": "O que a dor de cabeça disse ao paciente?",
+      "punchline": "Estou só passando, mas posso ficar um tempo."
+    },
+    {
+      "id": 321,
+      "categoria": "saude",
+      "setup": "Por que o fisioterapeuta é tão forte?",
+      "punchline": "Porque ele faz tudo com muita mão."
+    },
+    {
+      "id": 322,
+      "categoria": "saude",
+      "setup": "O que o psicólogo disse ao paciente?",
+      "punchline": "Fale mais, mas cobre menos."
+    },
+    {
+      "id": 323,
+      "categoria": "saude",
+      "setup": "Por que o médico olha o relógio?",
+      "punchline": "Porque o tempo é a melhor medicina."
+    },
+    {
+      "id": 324,
+      "categoria": "saude",
+      "setup": "Por que o paciente estava nervoso?",
+      "punchline": "Porque o médico disse: vamos precisar de uns exames."
+    },
+    {
+      "id": 325,
+      "categoria": "saude",
+      "setup": "O que o estômago disse ao garfo?",
+      "punchline": "Pare de me enganar com salada."
+    },
+    {
+      "id": 326,
+      "categoria": "saude",
+      "setup": "O que o médico disse ao paciente sobre a dieta?",
+      "punchline": "Corte as gorduras, e as desculpas."
+    },
+    {
+      "id": 327,
+      "categoria": "saude",
+      "setup": "Por que o médico não gosta de tempestade?",
+      "punchline": "Porque ela traz muitos resfriados."
+    },
+    {
+      "id": 328,
+      "categoria": "saude",
+      "setup": "O que o nutricionista disse ao pastel?",
+      "punchline": "Você é lindo, mas não cabe no meu plano."
+    },
+    {
+      "id": 329,
+      "categoria": "saude",
+      "setup": "Por que o pé foi ao médico?",
+      "punchline": "Porque estava com dor de andar."
+    },
+    {
+      "id": 330,
+      "categoria": "saude",
+      "setup": "O que o dente disse à escova?",
+      "punchline": "Sem você, eu estaria perdido."
+    },
+    {
+      "id": 331,
+      "categoria": "saude",
+      "setup": "Qual é o cúmulo do médico?",
+      "punchline": "Passar mal ao ver sangue."
+    },
+    {
+      "id": 332,
+      "categoria": "saude",
+      "setup": "O que o fio dental disse ao dente?",
+      "punchline": "Estou aqui para te separar dos problemas."
+    },
+    {
+      "id": 333,
+      "categoria": "saude",
+      "setup": "Por que o médico lava as mãos o tempo todo?",
+      "punchline": "Porque limpeza também é um tratamento."
+    },
+    {
+      "id": 334,
+      "categoria": "saude",
+      "setup": "O que o cardiologista disse ao apaixonado?",
+      "punchline": "Seu coração está bem, mas o romance precisa de atenção."
+    },
+    {
+      "id": 335,
+      "categoria": "saude",
+      "setup": "Por que o paciente rendeu piada?",
+      "punchline": "Porque o doutor perguntou: algum histórico? E ele só tinha o do navegador."
+    },
+    {
+      "id": 336,
+      "categoria": "saude",
+      "setup": "O que a gripe disse ao resfriado?",
+      "punchline": "Vamos juntos nessa epidemia."
+    },
+    {
+      "id": 337,
+      "categoria": "saude",
+      "setup": "O que o paciente disse ao nutricionista?",
+      "punchline": "Meu corpo é uma obra de arte, só precisa de mais moldura."
+    },
+    {
+      "id": 338,
+      "categoria": "saude",
+      "setup": "Qual é o cúmulo do ortopedista?",
+      "punchline": "Quebrar o galho de todos os pacientes."
+    },
+    {
+      "id": 339,
+      "categoria": "saude",
+      "setup": "O que o remédio amargo disse ao copo d'água?",
+      "punchline": "Me ajude a descer."
+    },
+    {
+      "id": 340,
+      "categoria": "saude",
+      "setup": "Por que o médico chegou atrasado?",
+      "punchline": "Porque estava cuidando de um caso urgente de sono."
+    },
+    {
+      "id": 341,
+      "categoria": "saude",
+      "setup": "O que o espirro disse ao nariz?",
+      "punchline": "Eu avisei que ia chegar de surpresa."
+    },
+    {
+      "id": 342,
+      "categoria": "saude",
+      "setup": "O que o médico disse ao ver o paciente saudável?",
+      "punchline": "Volte quando estiver doente."
+    },
+    {
+      "id": 343,
+      "categoria": "saude",
+      "setup": "Por que a bactéria foi à festa?",
+      "punchline": "Porque ela adorava a multiplicação de amigos."
+    },
+    {
+      "id": 344,
+      "categoria": "saude",
+      "setup": "Qual é o cúmulo do farmacêutico?",
+      "punchline": "Esquecer o nome do remédio que vende."
+    },
+    {
+      "id": 345,
+      "categoria": "saude",
+      "setup": "O que o enfermeiro disse ao paciente medroso?",
+      "punchline": "Não olhe, é só uma picadinha."
+    },
+    {
+      "id": 346,
+      "categoria": "saude",
+      "setup": "O que o ouvido disse à música?",
+      "punchline": "Entre com calma."
+    },
+    {
+      "id": 347,
+      "categoria": "saude",
+      "setup": "Por que o médico usa jaleco branco?",
+      "punchline": "Porque o preto já é do advogado."
+    },
+    {
+      "id": 348,
+      "categoria": "saude",
+      "setup": "O que o rim disse ao fígado?",
+      "punchline": "Aguenta firme, que o café ainda está chegando."
+    },
+    {
+      "id": 349,
+      "categoria": "saude",
+      "setup": "Por que o paciente riu na consulta?",
+      "punchline": "Porque o médico disse que ele estava ótimo e cobrou uma fortuna."
+    },
+    {
+      "id": 350,
+      "categoria": "saude",
+      "setup": "O que o osso disse à tala?",
+      "punchline": "Fique comigo até eu curar."
+    },
+    {
+      "id": 351,
+      "categoria": "saude",
+      "setup": "O que o esqueleto disse ao médico?",
+      "punchline": "Sem corpo, sem problema."
+    },
+    {
+      "id": 352,
+      "categoria": "saude",
+      "setup": "O que o paciente cansado disse ao despertador?",
+      "punchline": "Mais cinco minutos de saúde mental."
+    },
+    {
+      "id": 353,
+      "categoria": "saude",
+      "setup": "Por que a máscara foi à festa?",
+      "punchline": "Porque queria esconder o sorriso."
+    },
+    {
+      "id": 354,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: Joãozinho, o que é um ponto?",
+      "punchline": "Joãozinho: é um risquinho que desistiu de crescer."
+    },
+    {
+      "id": 355,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, se eu der 5 maçãs e você der 3 para sua irmã, quantas sobram?",
+      "punchline": "Joãozinho: nenhuma, professora, eu comi todas antes."
+    },
+    {
+      "id": 356,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho chegou atrasado e a professora perguntou por quê.",
+      "punchline": "Joãozinho: porque tinha uma placa dizendo 'Escola à frente, devagar'."
+    },
+    {
+      "id": 357,
+      "categoria": "joaozinho",
+      "setup": "O que Joãozinho disse ao ver a mãe cozinhando?",
+      "punchline": "Mãe, eu prefiro comer fora, mesmo que seja no quintal."
+    },
+    {
+      "id": 358,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou ao pai: Pai, o que é política?",
+      "punchline": "O pai respondeu: é a arte de prometer o que não pode e cobrar o que ninguém deve."
+    },
+    {
+      "id": 359,
+      "categoria": "joaozinho",
+      "setup": "A professora disse: Joãozinho, conjugue o verbo 'chorar'.",
+      "punchline": "Joãozinho: Eu choro, tu choras, ele chora... e eu continuo chorando por causa da nota."
+    },
+    {
+      "id": 360,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho voltou da escola e disse: mãe, hoje aprendi a escrever 'ônibus'.",
+      "punchline": "Mãe: e qual a diferença? Joãozinho: antes eu perdia ele, agora só erro a letra."
+    },
+    {
+      "id": 361,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: Joãozinho, quem descobriu o Brasil?",
+      "punchline": "Joãozinho: eu não sei, mas o Brasil estava aqui antes de mim."
+    },
+    {
+      "id": 362,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse ao pai: quando eu crescer quero ser astronauta.",
+      "punchline": "Pai: então comece estudando, porque a Lua não aceita atestado de desculpas."
+    },
+    {
+      "id": 363,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, o que você faz quando não sabe a resposta?",
+      "punchline": "Joãozinho: eu faço de conta que estou pensando muito."
+    },
+    {
+      "id": 364,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou à professora: posso ser punido por algo que não fiz?",
+      "punchline": "Professora: claro que não. Joãozinho: então eu não fiz o dever."
+    },
+    {
+      "id": 365,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho chegou em casa com a prova.",
+      "punchline": "Mãe: e a nota? Joãozinho: é segredo, a professora não quis me contar."
+    },
+    {
+      "id": 366,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse ao pai: fiquei em segundo lugar na corrida!",
+      "punchline": "Pai: parabéns! Joãozinho: só tinha dois participantes, mas ainda assim."
+    },
+    {
+      "id": 367,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, o que é um herói?",
+      "punchline": "Joãozinho: alguém que acorda cedo e vai pra escola sem reclamar."
+    },
+    {
+      "id": 368,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou à professora: o que é um verbo?",
+      "punchline": "Professora: ação. Joãozinho: então dormir é verbo? Porque não faço nada."
+    },
+    {
+      "id": 369,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, por que você está com o dever incompleto?",
+      "punchline": "Joãozinho: porque eu não queria exagerar."
+    },
+    {
+      "id": 370,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse à mãe: hoje vi um passarinho preso na gaiola.",
+      "punchline": "Mãe: e o que você fez? Joãozinho: pedi desculpas por ser da mesma raça."
+    },
+    {
+      "id": 371,
+      "categoria": "joaozinho",
+      "setup": "O professor disse: Joãozinho, escreva uma frase com 'fosse'.",
+      "punchline": "Joãozinho: Fosse eu, não teria vindo hoje."
+    },
+    {
+      "id": 372,
+      "categoria": "joaozinho",
+      "setup": "A professora disse: Joãozinho, pare de conversar!",
+      "punchline": "Joãozinho: eu não estou conversando, estou só pensando em voz alta."
+    },
+    {
+      "id": 373,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou ao pai: Por que o céu é azul?",
+      "punchline": "Pai: porque Deus gosta de azul. Joãozinho: então por que a escola é cinza?"
+    },
+    {
+      "id": 374,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: se você tem 10 reais e perde 5, o que acontece?",
+      "punchline": "Joãozinho: eu choro e peço mais pra mamãe."
+    },
+    {
+      "id": 375,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, quanto é 2 + 2?",
+      "punchline": "Joãozinho: depende, é para a prova ou para a vida?"
+    },
+    {
+      "id": 376,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse à vó: vó, o que é saudade?",
+      "punchline": "Vó: é quando o coração sente falta. Joãozinho: então eu tenho saudade do recreio."
+    },
+    {
+      "id": 377,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, qual a capital do Brasil?",
+      "punchline": "Joãozinho: o dinheiro, professora."
+    },
+    {
+      "id": 378,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou ao pai: Pai, o que é crise?",
+      "punchline": "Pai: é quando o dinheiro acaba antes do mês. Joãozinho: então já estou em crise desde a mesada."
+    },
+    {
+      "id": 379,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: Joãozinho, o que é mais pesado: um quilo de ferro ou um de algodão?",
+      "punchline": "Joãozinho: o de ferro dói mais quando cai no pé."
+    },
+    {
+      "id": 380,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse à professora: hoje eu vim sem dever.",
+      "punchline": "Professora: por quê? Joãozinho: porque o cachorro comeu, e o gato aprovou."
+    },
+    {
+      "id": 381,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, quem foi Dom Pedro?",
+      "punchline": "Joãozinho: o homem que gritou 'Independência ou Morte' e nunca mais teve sossego."
+    },
+    {
+      "id": 382,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho voltou do colégio com uma advertência.",
+      "punchline": "Mãe: o que houve? Joãozinho: eu só avisei que a aula estava chata."
+    },
+    {
+      "id": 383,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: o que você quer ser quando crescer?",
+      "punchline": "Joãozinho: eu quero ser grande, mas sem fazer dever."
+    },
+    {
+      "id": 384,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou ao pai: por que a lua some?",
+      "punchline": "Pai: ela vai dormir. Joãozinho: e quem desliga o sol?"
+    },
+    {
+      "id": 385,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, como se escreve 'cachorro'?",
+      "punchline": "Joãozinho: Au-au."
+    },
+    {
+      "id": 386,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse ao amigo: minha mãe mandou eu ficar quieto.",
+      "punchline": "Amigo: e você ficou? Joãozinho: fiquei, durante um segundo."
+    },
+    {
+      "id": 387,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: Joãozinho, o que você tem na mochila?",
+      "punchline": "Joãozinho: o essencial, ou seja, nada de livros."
+    },
+    {
+      "id": 388,
+      "categoria": "joaozinho",
+      "setup": "A professora disse: Joãozinho, se você tivesse três pirulitos e desse um ao colega, com quantos ficaria?",
+      "punchline": "Joãozinho: com três, professora, eu não divido."
+    },
+    {
+      "id": 389,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou à professora: posso ir ao banheiro?",
+      "punchline": "Professora: pode. Joãozinho: e posso voltar?"
+    },
+    {
+      "id": 390,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: o que é um átomo?",
+      "punchline": "Joãozinho: é uma coisa tão pequena que nem a prova consegue caber."
+    },
+    {
+      "id": 391,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse ao pai: tirei 10 na prova!",
+      "punchline": "Pai: parabéns! Joãozinho: de 50 questões, mas valeu."
+    },
+    {
+      "id": 392,
+      "categoria": "joaozinho",
+      "setup": "A professora disse: Joãozinho, qual o plural de 'pão'?",
+      "punchline": "Joãozinho: fome."
+    },
+    {
+      "id": 393,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou: professora, a senhora gosta de mim?",
+      "punchline": "Professora: claro. Joãozinho: então me dá 10."
+    },
+    {
+      "id": 394,
+      "categoria": "joaozinho",
+      "setup": "O professor perguntou: Joãozinho, quem é o pai do Pedrinho?",
+      "punchline": "Joãozinho: o pai do Pedrinho é o marido da mãe dele."
+    },
+    {
+      "id": 395,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse à vovó: vó, a senhora tem wifi?",
+      "punchline": "Vovó: tenho sim, é o meu abraço. Joãozinho: e a senha?"
+    },
+    {
+      "id": 396,
+      "categoria": "joaozinho",
+      "setup": "A professora perguntou: Joãozinho, você sabe o que é um sinônimo?",
+      "punchline": "Joãozinho: é a palavra que o aluno usa quando não sabe a resposta."
+    },
+    {
+      "id": 397,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou ao pai: o que é dívida?",
+      "punchline": "Pai: é quando você deve. Joãozinho: então eu sou rico, devo dever."
+    },
+    {
+      "id": 398,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho disse à professora: sua aula é tão boa que eu dormi relaxado.",
+      "punchline": "Professora: então vá para a diretoria dormir."
+    },
+    {
+      "id": 399,
+      "categoria": "joaozinho",
+      "setup": "A mãe disse ao Joãozinho: arrume o quarto!",
+      "punchline": "Joãozinho: mas ele já está arrumado do jeito que eu gosto."
+    },
+    {
+      "id": 400,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou ao professor: o senhor já foi criança?",
+      "punchline": "Professor: claro. Joãozinho: e já fazia dever? Professor: ... era outro tempo."
+    },
+    {
+      "id": 401,
+      "categoria": "joaozinho",
+      "setup": "Joãozinho perguntou ao pai: por que a água molha?",
+      "punchline": "Pai: porque é água. Joãozinho: genial, obrigado."
+    },
+    {
+      "id": 402,
+      "categoria": "trocadilhos",
+      "setup": "O que é um ponto preto no meio da folha?",
+      "punchline": "Uma formiga, mas se ela estiver parada, é um ponto final."
+    },
+    {
+      "id": 403,
+      "categoria": "trocadilhos",
+      "setup": "Qual é o cúmulo da ironia?",
+      "punchline": "Um dentista com dor de dente."
+    },
+    {
+      "id": 404,
+      "categoria": "trocadilhos",
+      "setup": "O que o tijolo falou pro outro tijolo?",
+      "punchline": "Há um ciúme entre nós."
+    },
+    {
+      "id": 405,
+      "categoria": "trocadilhos",
+      "setup": "Por que a Lua não paga IPTU?",
+      "punchline": "Porque ela só aparece à noite."
+    },
+    {
+      "id": 406,
+      "categoria": "trocadilhos",
+      "setup": "Qual é o doce preferido do atleta?",
+      "punchline": "Maratona."
+    },
+    {
+      "id": 407,
+      "categoria": "trocadilhos",
+      "setup": "O que a parede falou para a outra?",
+      "punchline": "Nos encontramos no canto."
+    },
+    {
+      "id": 408,
+      "categoria": "trocadilhos",
+      "setup": "Qual é o cúmulo do exagero?",
+      "punchline": "Pedir bis ao dentista."
+    },
+    {
+      "id": 409,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem dentes mas não morde?",
+      "punchline": "O pente."
+    },
+    {
+      "id": 410,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: cai em pé e corre deitado?",
+      "punchline": "A chuva."
+    },
+    {
+      "id": 411,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quanto mais se tira, maior fica?",
+      "punchline": "O buraco."
+    },
+    {
+      "id": 412,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem cabeça e não pensa?",
+      "punchline": "O alho."
+    },
+    {
+      "id": 413,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: anda com os pés na cabeça?",
+      "punchline": "O piolho."
+    },
+    {
+      "id": 414,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem asas mas não voa, tem bico mas não bica?",
+      "punchline": "O bule."
+    },
+    {
+      "id": 415,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: está sempre na sua frente mas você não vê?",
+      "punchline": "O futuro."
+    },
+    {
+      "id": 416,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem coroa mas não é rei?",
+      "punchline": "O abacaxi."
+    },
+    {
+      "id": 417,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quanto mais seca, mais molhada fica?",
+      "punchline": "A toalha."
+    },
+    {
+      "id": 418,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem pescoço mas não tem cabeça?",
+      "punchline": "A garrafa."
+    },
+    {
+      "id": 419,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: nasce grande e morre pequeno?",
+      "punchline": "O lápis."
+    },
+    {
+      "id": 420,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem olhos mas não vê?",
+      "punchline": "A batata."
+    },
+    {
+      "id": 421,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: vive no meio do mar sem se molhar?",
+      "punchline": "A letra A."
+    },
+    {
+      "id": 422,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: sobe e desce mas nunca sai do lugar?",
+      "punchline": "A escada."
+    },
+    {
+      "id": 423,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quanto mais cresce, menos se vê?",
+      "punchline": "A escuridão."
+    },
+    {
+      "id": 424,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem muitos dentes mas não come?",
+      "punchline": "O pente (ou a engrenagem)."
+    },
+    {
+      "id": 425,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem rios mas não tem água, cidades mas não tem gente?",
+      "punchline": "O mapa."
+    },
+    {
+      "id": 426,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: sempre vem, mas nunca chega?",
+      "punchline": "O amanhã."
+    },
+    {
+      "id": 427,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: pertence a você, mas os outros usam mais?",
+      "punchline": "O seu nome."
+    },
+    {
+      "id": 428,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem mãos mas não aplaude?",
+      "punchline": "O relógio."
+    },
+    {
+      "id": 429,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem folhas mas não é árvore?",
+      "punchline": "O livro."
+    },
+    {
+      "id": 430,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quanto mais perto, menos se vê?",
+      "punchline": "O próprio nariz."
+    },
+    {
+      "id": 431,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem chave mas não abre porta?",
+      "punchline": "O piano."
+    },
+    {
+      "id": 432,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem cidades sem casas, e rios sem água?",
+      "punchline": "O mapa."
+    },
+    {
+      "id": 433,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: é seu, mas todos usam mais que você?",
+      "punchline": "O seu nome."
+    },
+    {
+      "id": 434,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem barba mas não é homem?",
+      "punchline": "O milho."
+    },
+    {
+      "id": 435,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: corre pela casa mas nunca sai dela?",
+      "punchline": "O corredor."
+    },
+    {
+      "id": 436,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem coração mas não tem sentimentos?",
+      "punchline": "A alcachofra."
+    },
+    {
+      "id": 437,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quebra quando se fala?",
+      "punchline": "O silêncio."
+    },
+    {
+      "id": 438,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: fica molhado quando seca?",
+      "punchline": "A toalha."
+    },
+    {
+      "id": 439,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem uma só cor mas muitas formas?",
+      "punchline": "A nuvem."
+    },
+    {
+      "id": 440,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: começa com T, termina com T e tem T no meio?",
+      "punchline": "O bule de chá (tea-pot)."
+    },
+    {
+      "id": 441,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: voa sem asas e chora sem olhos?",
+      "punchline": "A nuvem."
+    },
+    {
+      "id": 442,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quanto mais se divide, mais se multiplica?",
+      "punchline": "A alegria."
+    },
+    {
+      "id": 443,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: entra na água e não se molha?",
+      "punchline": "A sombra."
+    },
+    {
+      "id": 444,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem dentes e não come, tem boca e não fala?",
+      "punchline": "O alho."
+    },
+    {
+      "id": 445,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: faz a gente andar, mas não tem pés?",
+      "punchline": "O dinheiro."
+    },
+    {
+      "id": 446,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quanto maior, menos se vê?",
+      "punchline": "O escuro."
+    },
+    {
+      "id": 447,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem asas, mas não é ave; voa, mas não é avião?",
+      "punchline": "A pipa."
+    },
+    {
+      "id": 448,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: fica cheio de buracos mas retém água?",
+      "punchline": "A esponja."
+    },
+    {
+      "id": 449,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem cabeça, tem dente, mas não é gente?",
+      "punchline": "O alho."
+    },
+    {
+      "id": 450,
+      "categoria": "ciencia",
+      "setup": "Por que o físico atravessou a rua?",
+      "punchline": "Porque era a menor distância entre dois pontos."
+    },
+    {
+      "id": 451,
+      "categoria": "ciencia",
+      "setup": "O que o átomo disse ao amigo?",
+      "punchline": "Perdi um elétron! O outro: tem certeza? Átomo: Positivo."
+    },
+    {
+      "id": 452,
+      "categoria": "ciencia",
+      "setup": "O que o ácido disse à base?",
+      "punchline": "Você me neutraliza."
+    },
+    {
+      "id": 453,
+      "categoria": "ciencia",
+      "setup": "Por que o número 6 teve medo do 7?",
+      "punchline": "Porque 7 8 9."
+    },
+    {
+      "id": 454,
+      "categoria": "ciencia",
+      "setup": "O que o zero disse ao um?",
+      "punchline": "Sem mim, você não é nada grande."
+    },
+    {
+      "id": 455,
+      "categoria": "ciencia",
+      "setup": "Qual é a fruta preferida do matemático?",
+      "punchline": "A pi-tanga."
+    },
+    {
+      "id": 456,
+      "categoria": "ciencia",
+      "setup": "Por que o triângulo foi ao psicólogo?",
+      "punchline": "Porque tinha muitos ângulos mal resolvidos."
+    },
+    {
+      "id": 457,
+      "categoria": "ciencia",
+      "setup": "O que o círculo disse à reta?",
+      "punchline": "Você nunca chega a lugar nenhum."
+    },
+    {
+      "id": 458,
+      "categoria": "ciencia",
+      "setup": "Por que o matemático ficou triste?",
+      "punchline": "Porque tinha muitos problemas, e nenhuma solução."
+    },
+    {
+      "id": 459,
+      "categoria": "ciencia",
+      "setup": "O que a raiz quadrada disse ao 9?",
+      "punchline": "Você é um número tão bem resolvido."
+    },
+    {
+      "id": 460,
+      "categoria": "ciencia",
+      "setup": "O que o físico disse ao ver a maçã cair?",
+      "punchline": "Newton, eu pensei que era só uma maçã."
+    },
+    {
+      "id": 461,
+      "categoria": "ciencia",
+      "setup": "Por que a luz é tão popular?",
+      "punchline": "Porque ela viaja rápido e ilumina todos."
+    },
+    {
+      "id": 462,
+      "categoria": "ciencia",
+      "setup": "Por que o átomo foi ao banco?",
+      "punchline": "Para fazer um depósito de prótons."
+    },
+    {
+      "id": 463,
+      "categoria": "ciencia",
+      "setup": "O que o elétron disse ao próton?",
+      "punchline": "Você é positivo demais."
+    },
+    {
+      "id": 464,
+      "categoria": "ciencia",
+      "setup": "Qual é o cúmulo do cientista?",
+      "punchline": "Fazer experimentos em casa e culpar o gato."
+    },
+    {
+      "id": 465,
+      "categoria": "ciencia",
+      "setup": "O que o planeta Terra disse à Lua?",
+      "punchline": "Você me orbita demais."
+    },
+    {
+      "id": 466,
+      "categoria": "ciencia",
+      "setup": "Por que o Sol nunca vai à escola?",
+      "punchline": "Porque já é muito brilhante."
+    },
+    {
+      "id": 467,
+      "categoria": "ciencia",
+      "setup": "O que o vulcão disse ao ser acordado?",
+      "punchline": "Estou com raiva, mas vou erupção."
+    },
+    {
+      "id": 468,
+      "categoria": "ciencia",
+      "setup": "Por que o químico gosta de jogos?",
+      "punchline": "Porque tem muita ligação."
+    },
+    {
+      "id": 469,
+      "categoria": "ciencia",
+      "setup": "Por que o dinossauro desapareceu?",
+      "punchline": "Porque não conseguiu pagar o aluguel do planeta."
+    },
+    {
+      "id": 470,
+      "categoria": "ciencia",
+      "setup": "Por que a Terra é redonda?",
+      "punchline": "Porque os quadrados escaparam para o espaço."
+    },
+    {
+      "id": 471,
+      "categoria": "ciencia",
+      "setup": "Qual é o cúmulo do astrônomo?",
+      "punchline": "Perder a estrela em casa."
+    },
+    {
+      "id": 472,
+      "categoria": "ciencia",
+      "setup": "O que o telescópio disse à estrela?",
+      "punchline": "Eu te vejo de longe."
+    },
+    {
+      "id": 473,
+      "categoria": "ciencia",
+      "setup": "Por que o cientista foi ao oftalmologista?",
+      "punchline": "Porque estava com visão de túnel de pesquisa."
+    },
+    {
+      "id": 474,
+      "categoria": "ciencia",
+      "setup": "O que o termômetro disse ao clima?",
+      "punchline": "Você está variando demais."
+    },
+    {
+      "id": 475,
+      "categoria": "ciencia",
+      "setup": "Por que o oxigênio foi ao casamento?",
+      "punchline": "Porque queria fazer parte da molécula."
+    },
+    {
+      "id": 476,
+      "categoria": "ciencia",
+      "setup": "O que o hidrogênio disse ao oxigênio?",
+      "punchline": "Juntos somos água, separados somos gás."
+    },
+    {
+      "id": 477,
+      "categoria": "ciencia",
+      "setup": "Por que o ângulo reto é tão exigente?",
+      "punchline": "Porque ele nunca aceita menos de 90."
+    },
+    {
+      "id": 478,
+      "categoria": "ciencia",
+      "setup": "Por que o número ímpar é tão solitário?",
+      "punchline": "Porque nunca tem par."
+    },
+    {
+      "id": 479,
+      "categoria": "ciencia",
+      "setup": "O que o infinito disse ao zero?",
+      "punchline": "Vamos sair juntos, nunca vamos acabar."
+    },
+    {
+      "id": 480,
+      "categoria": "ciencia",
+      "setup": "O que o logaritmo disse ao expoente?",
+      "punchline": "Eu desfaço o que você faz."
+    },
+    {
+      "id": 481,
+      "categoria": "ciencia",
+      "setup": "Por que o gráfico ficou nervoso?",
+      "punchline": "Porque estava cheio de picos."
+    },
+    {
+      "id": 482,
+      "categoria": "ciencia",
+      "setup": "O que a fração disse ao denominador?",
+      "punchline": "Sem você eu não valho nada."
+    },
+    {
+      "id": 483,
+      "categoria": "ciencia",
+      "setup": "Por que o gato de Schrödinger foi à festa?",
+      "punchline": "Ninguém sabe se ele estava lá."
+    },
+    {
+      "id": 484,
+      "categoria": "ciencia",
+      "setup": "O que a gravidade disse ao astronauta?",
+      "punchline": "Volte, eu sinto sua falta."
+    },
+    {
+      "id": 485,
+      "categoria": "ciencia",
+      "setup": "O que o cientista disse ao experimento falho?",
+      "punchline": "Todo erro é um resultado."
+    },
+    {
+      "id": 486,
+      "categoria": "ciencia",
+      "setup": "Por que o eletricista é bom em relacionamento?",
+      "punchline": "Porque sempre sabe como manter a corrente."
+    },
+    {
+      "id": 487,
+      "categoria": "ciencia",
+      "setup": "O que o DNA disse ao RNA?",
+      "punchline": "Você é minha cópia."
+    },
+    {
+      "id": 488,
+      "categoria": "tecnologia",
+      "setup": "Por que o teclado foi promovido?",
+      "punchline": "Porque tinha muitas teclas de atalho para o sucesso."
+    },
+    {
+      "id": 489,
+      "categoria": "comida",
+      "setup": "O que o morango disse ao creme?",
+      "punchline": "Sem você, eu fico sem graça."
+    },
+    {
+      "id": 490,
+      "categoria": "familia",
+      "setup": "O que a mãe disse ao filho que pediu mais um jogo?",
+      "punchline": "Só depois de lavar a louça."
+    },
+    {
+      "id": 491,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: tem muitos pés mas não anda?",
+      "punchline": "A mesa e a cadeira, que só têm pés de apoio."
+    },
+    {
+      "id": 492,
+      "categoria": "trocadilhos",
+      "setup": "O que é, o que é: quanto mais você tem, menos você vê?",
+      "punchline": "A neblina."
+    },
+    {
+      "id": 493,
+      "categoria": "ciencia",
+      "setup": "O que o cientista disse ao microscópio?",
+      "punchline": "Você enxerga longe, mesmo sendo tão pequeno."
+    },
+    {
+      "id": 494,
+      "categoria": "ciencia",
+      "setup": "Por que a nuvem foi à escola?",
+      "punchline": "Para aprender a chover conhecimento."
+    },
+    {
+      "id": 495,
+      "categoria": "ciencia",
+      "setup": "O que o planeta Marte disse ao Sol?",
+      "punchline": "Estou vermelho de tanto te admirar."
+    },
+    {
+      "id": 496,
+      "categoria": "ciencia",
+      "setup": "Por que o relógio de sol nunca se atrasa?",
+      "punchline": "Porque ele só trabalha quando tem luz."
+    },
+    {
+      "id": 497,
+      "categoria": "ciencia",
+      "setup": "O que a semente disse à terra?",
+      "punchline": "Eu só quero crescer."
+    },
+    {
+      "id": 498,
+      "categoria": "animais",
+      "setup": "O que a joaninha disse à folha?",
+      "punchline": "Vou dar uma volta, já volto pintadinha."
+    },
+    {
+      "id": 499,
+      "categoria": "animais",
+      "setup": "Por que o cachorro dormiu na varanda?",
+      "punchline": "Para vigiar o sonho dos outros."
+    },
+    {
+      "id": 500,
+      "categoria": "escola",
+      "setup": "O que o estudante disse à biblioteca?",
+      "punchline": "Prometo devolver os livros... no próximo semestre."
+    }
+  ]
+}
